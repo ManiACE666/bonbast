@@ -1,0 +1,16 @@
+{
+  "name": "creating-discord-bot-main",
+  "version": "1.0.0",
+  "description": "Before you get started anything you need to create your NEW Application bot in https://discord.com/developers , Then copy and save your Application Bot's TOKEN (Please don't share this with anyone, Because whoever has it will have full access to your bot, for example they can Nuked your server!) **Make sure that your Bot have access to the Intents in the Portal**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.10.2"
+  }
+}
